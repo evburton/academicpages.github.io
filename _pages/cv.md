@@ -11,49 +11,62 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master’s in Library & Information Studies, University of Alabama,Tuscaloosa, AL, with an emphasis in Public Libraries, expected May 2020. Relevant coursework: Public Libraries, User-Centered Information Services, Information Technologies, Digital Reference
+* Bachelor of Arts in English with a minor in Philosophy, Transylvania University, Lexington, KY 2016, Dean’s List 8 terms
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2019-December 2019 Intern, Huntsville-Madison County Public Library
+  * Attained proficiency in all aspects of a metropolitan public library system, including circulation, reference, special collections and archives, youth services, outreach, and public relations and marketing
+  * Collaborated with management to learn best practices for both services and materials for branches of varying sizes and demographics, ranging from a large, main downtown branch to a small, rural community library
+  * Created marketing materials communicating the relevance of a public library both to the Huntsville-Madison County community specifically, and to contemporary American patrons in general
+  * Gained familiarity with various pieces of library software, including the Koha circulation and cataloging software and the SpringShare reference platforms LibGuides and LibAnswers
+  * Participated in the digitization and cataloging of archival materials and rare books
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* August 2018-Present Learning Resource Center Assistant, Strayer University
+  * Manage a university library as the sole on-campus employee
+  * Maintain the library’s collection, including circulation, weeding, and new arrivals using LCSH classification
+  * Assist students in their academic progress by facilitating digital and information literacy, as well as effective use of library resources
+  * Organize educational programming on topics ranging from proper citation practices to information etiquette and job search skills
+  * Collaborate with faculty to help students in achieving their learning goals through the facilitated use of library resources
+  * Serve as staff advisor for the campus branch of Future Business Leaders of America
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* February 2017-August 2018 Content &Marketing Manager, Creekmore Marketing
+  * Analyzed clients’ goals, needs, and brandto produce effective, engaging copywriting
+  * Managed a team of over a dozen copywriters and assigned them marketing-oriented writing tasks, as well as ensured those tasks were completed in a timely manner
+  * Assessed incoming copywriting from a content team that I managed for consistency, grammar, spelling, writing quality, and achievement of marketing goals
+  * Worked independently, using my technological and communication skills to be an effective employee remotely
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* 2013-2016 Writing Consultant/Tutor, Transylvania University Writing Center
+  * Strengthened my interpersonal communications skills by interacting with students in an academic setting on a day-to-day basis
+  * Collaborated with students to brainstorm, craft, and revise academic papers ranging from literary essays to grant proposals and lab reports
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2014-2016 Social Media Director, Transylvania University Writing Center
+  * Rebranded the writing center's social media presence to both better communicate our goalsand raise visibility of the writing center with the campus at large
+  * Publicized the ways in which our writing center waschanging, and maximized the exposure that was received through our social media platforms
   
-Service and leadership
+Outreach
 ======
-* Currently signed in to 43 different slack teams
+* Service
+  * American Library Association (ALA), University of Alabama Student Chapter, serve as Operations Manager, Fall 2018-Present. Create and distribute a monthly newsletter detailing the accomplishments of the chapter and of the School of Library and Information Studies.
+  * North American Serials Interest Group (NASIG), NASIG Student Mentorship Program, August 2019-Present, collaborated with an experienced professional librarian to discuss issues and best practices related to librarianship and entering the profession.
+* Professional Memberships
+  * American Library Association (ALA)
+  * North American Serials Interest Group (NASIG)
+  * Public Library Association (PLA)
+* Publications
+  * “Facing Harry Denny: Or, Facing Nationality in the Small College Writing Center,”Southern Discourse in the Center: A Journal of Multiliteracy and Innovation, (Vol. 20, No. 1, Fall 2015)
+* Presentations
+  * #UsToo: Patron-Perpetrated Sexual Harassment of Female Public Library Workers, University of Alabama, Annual Graduate Research Symposium of the Department of Educational Studies in Psychology, Research Methodology, and Counseling, April 25, 2019
+* Honors & Awards
+  * Transylvania University, 2016, The Delcamp Essay Award
+  * The Golden Key International Honour Society, University of Alabama Chapter, member from 2019, awarded to students in the top 15% of their major.
+
+Certifications & Skills
+======
+* Certifications
+  * CITI Program Basic Course in Human Research by Non-Medical Investigators, 2019
+  * CITI Program Basic Course in Responsible Conduct of Research (RCR), 2019
+* Skills
+  * HTML, CSS, GitHub, Spring Share software suite including LibGuides and LibAnswers, lesson planning, advanced Microsoft Word and PowerPoint, beginner Excel, multiple social mediaplatforms (Facebook, Twitter, Instagram, Tumblr, WordPress, Hootsuite, etc.), Search Engine Optimization, experience with analytics platforms such as Google Analytics, typing speed of 100 words per minute
+ 
