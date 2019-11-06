@@ -1,18 +1,8 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "Elizabeth Burton"
+  uri         : "https://evburton.github.io"
+  email       : "e.victoria.burton@gmail.com"
+  bio         : "I am a Master's of Library and Information Studies student at the University of Alabama with a specialization in Public Libraries."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
