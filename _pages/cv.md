@@ -52,8 +52,8 @@ Outreach
   * North American Serials Interest Group (NASIG), NASIG Student Mentorship Program, August 2019-Present, collaborated with an experienced professional librarian to discuss issues and best practices related to librarianship and entering the profession.
 * Professional Memberships
   * American Library Association (ALA)
-  * North American Serials Interest Group (NASIG)
   * Public Library Association (PLA)
+  * North American Serials Interest Group (NASIG)
 * Publications
   * “Facing Harry Denny: Or, Facing Nationality in the Small College Writing Center,”Southern Discourse in the Center: A Journal of Multiliteracy and Innovation, (Vol. 20, No. 1, Fall 2015)
 * Presentations
