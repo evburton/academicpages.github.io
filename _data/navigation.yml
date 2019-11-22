@@ -3,16 +3,16 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Assessment Project"
+  - title: "Assessment"
     url: /assessment/    
   
   - title: "Marketing"
     url: /marketing/    
 
-  - title: "Sample LibGuide"
+  - title: "LibGuide"
     url: /libguide/    
     
-  - title: "Hand-Tagged Website"
+  - title: "Website"
     url: /website/
         
   - title: "Contact"
