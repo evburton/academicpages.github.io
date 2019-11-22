@@ -13,6 +13,7 @@ If you are viewing this on mobile, you can access my site's pages here:
 <ul>
   <li><a href="https://evburton.github.io/cv/">CV</a></li>
   <li><a href="https://evburton.github.io/assessment/">Assessment Project</a></li>
+  <li><a href="https://evburton.github.io/marketing/">Marketing</a></li>
   <li><a href="https://evburton.github.io/libguide/">Sample LibGuide</a></li>
   <li><a href="https://evburton.github.io/website/">Hand-Tagged Website</a></li>
   <li><a href="https://evburton.github.io/contact/">Contact</a></li>
