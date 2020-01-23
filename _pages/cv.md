@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Master’s in Library & Information Studies, University of Alabama,Tuscaloosa, AL, with an emphasis in Public Libraries, expected May 2020. Relevant coursework: Public Libraries, User-Centered Information Services, Information Technologies, Digital Reference
+* Master’s in Library & Information Studies, University of Alabama,Tuscaloosa, AL, with an emphasis in Public Libraries, expected May 2020. Relevant coursework: Public Libraries, User-Centered Information Services, Information Technologies, Digital Reference, Information Literacy Instruction, Fundamentals of Collection Development
 * Bachelor of Arts in English with a minor in Philosophy, Transylvania University, Lexington, KY 2016, Dean’s List 8 terms
 
 Work experience
