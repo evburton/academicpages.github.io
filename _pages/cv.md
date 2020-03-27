@@ -16,6 +16,15 @@ Education
 
 Work experience
 ======
+* January 2020-Present Library Aide, Athens-Limestone Public Library
+  * Participate in collection development initiatives, including identifying community needs to select new materials for purchase
+  * Plan programs to meet the goals of an LSTA grant received in 2019 to increase workforce development in the Athens/Limestone County community, prepare high school students for college, prepare recent college graduates for introduction into the workforce, educate community members about local industries, and increase community financial literacy
+  * Forge partnerships with community organizations and local businesses to facilitate these programs with their unique expertise
+  * Created a marketing plan for LSTA grant-funded program series and performed social media marketing to increase community awareness of the programs
+  * Perform repairs on damaged library materials
+  * Answer reference questions for both adult and juvenile patrons
+  * Perform circulation duties
+
 * August 2019-December 2019 Intern, Huntsville-Madison County Public Library
   * Attained proficiency in all aspects of a metropolitan public library system, including circulation, reference, special collections and archives, youth services, outreach, and public relations and marketing
   * Collaborated with management to learn best practices for both services and materials for branches of varying sizes and demographics, ranging from a large, main downtown branch to a small, rural community library
@@ -57,6 +66,7 @@ Outreach
 * Publications
   * “Facing Harry Denny: Or, Facing Nationality in the Small College Writing Center,”Southern Discourse in the Center: A Journal of Multiliteracy and Innovation, (Vol. 20, No. 1, Fall 2015)
 * Presentations
+  * "But think of the children!": Drag Queen Story Hour & the Queer Potential of the Public Library, University of Alabama, Discerning Diverse Voices Symposium, March 12, 2020
   * #UsToo: Patron-Perpetrated Sexual Harassment of Female Public Library Workers, University of Alabama, Annual Graduate Research Symposium of the Department of Educational Studies in Psychology, Research Methodology, and Counseling, April 25, 2019
 * Honors & Awards
   * Transylvania University, 2016, The Delcamp Essay Award
