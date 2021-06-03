@@ -11,12 +11,20 @@ redirect_from:
 
 Education
 ======
-* Master’s in Library & Information Studies, University of Alabama,Tuscaloosa, AL, with an emphasis in Public Libraries, May 2020. Relevant coursework: Public Libraries, User-Centered Information Services, Information Technologies, Digital Reference, Information Literacy Instruction, Fundamentals of Collection Development
+* Master’s in Library & Information Studies, University of Alabama,Tuscaloosa, AL, with an emphasis in Public Libraries, 2020. Relevant coursework: Public Libraries, User-Centered Information Services, Information Technologies, Digital Reference, Information Literacy Instruction, Fundamentals of Collection Development
 * Bachelor of Arts in English with a minor in Philosophy, Transylvania University, Lexington, KY 2016, Dean’s List 8 terms
 
 Work experience
 ======
-* January 2020-Present Library Aide, Athens-Limestone Public Library
+* July 2020-Present Adult Program Librarian, Harris County Public Library
+  * Assess community needs to develop relevant, engaging programs in line with the strategic goals of HCPL
+  * Overhauled library marketing plan, significantly revising social media marketing strategy to reflect the current online environment
+  * Execute marketing plan by creating and sharing content on Facebook, Instagram, Twitter, and the HCPL web blog
+  * Utilize research skills to assist patrons with their information needs
+  * Monitor trends in arts and publishing to develop our collection in line with community needs and desires
+  * Co-chaired Marketing Committee to implement changes in marketing plan and brainstorm innovative new ways to get information to our patrons 
+
+* January 2020-June 2020 Library Aide, Athens-Limestone Public Library
   * Participate in collection development initiatives, including identifying community needs to select new materials for purchase
   * Plan programs to meet the goals of an LSTA grant received in 2019 to increase workforce development in the Athens/Limestone County community, prepare high school students for college, prepare recent college graduates for introduction into the workforce, educate community members about local industries, and increase community financial literacy
   * Forge partnerships with community organizations and local businesses to facilitate these programs with their unique expertise
