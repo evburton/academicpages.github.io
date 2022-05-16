@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* July 2020-Present Adult Program Librarian, Harris County Public Library
+* July 2020-May 2022 Adult Program Librarian, Harris County Public Library
   * Assess community needs to develop relevant, engaging programs in line with the strategic goals of HCPL
   * Overhauled library marketing plan, significantly revising social media marketing strategy to reflect the current online environment
   * Execute marketing plan by creating and sharing content on Facebook, Instagram, Twitter, and the HCPL web blog
