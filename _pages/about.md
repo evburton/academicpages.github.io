@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am an MLIS-accredited librarian living in the Boston metro area. I graduated in 2020 with my Master's of Library & Information Studies degree and a specialization in Public Libraries from the University of Alabama. I received my bachelor's degree in English from Transylvania University in Lexington, KY in 2016. My professional interests are social justice and community engagement work within libraries, adult services, library marketing, and library services for historically underserved groups. I have professional experience working in both public and academic libraries.
-
+Hello! I am an MLIS-accredited librarian from Kentucky. I graduated in 2020 with my Master's of Library & Information Studies degree and a specialization in Public Libraries from the University of Alabama. I received my bachelor's degree in English from Transylvania University in Lexington, KY in 2016. Since receiving my MLIS, I have held a number of different professional librarian roles, including work in programming, reference, technical services, and library marketing.
 If you are viewing this on mobile, you can access my site's pages here:
 <ul>
   <li><a href="https://evburton.github.io/cv/">CV</a></li>
