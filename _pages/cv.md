@@ -16,6 +16,14 @@ Education
 
 Work experience
 ======
+* June 2022-Present Tech Services/Reference Librarian, Amesbury Public Library
+  * Coordinate cataloging for all areas of the library’s collection, including original cataloging of nonfiction items
+  * Handle incoming and outgoing interlibrary loans
+  * Leverage deep knowledge of the library’s collection to provide exemplary reference service
+  * Identify library materials to purchase by evaluating publishing trends and community needs
+  * Maintain multiple areas of the collection, including weeding, shifting, and re-cataloging
+  * Participate in extensive professional development to maintain up-to-date knowledge of technical services, reference skills, and other aspects of librarianship
+
 * July 2020-May 2022 Adult Program Librarian, Harris County Public Library
   * Assess community needs to develop relevant, engaging programs in line with the strategic goals of HCPL
   * Overhauled library marketing plan, significantly revising social media marketing strategy to reflect the current online environment
